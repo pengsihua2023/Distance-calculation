@@ -1,4 +1,6 @@
 ## Euclidean distance
+Euclidean distance, named after the ancient Greek mathematician Euclid, is the straight-line distance between two points in Euclidean space. It is the most common use of distance in geometry, representing the shortest way to travel between two points.  
+
 ```
 import math
 
