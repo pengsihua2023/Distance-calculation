@@ -7,7 +7,7 @@ import math
 def euclidean_distance_nd(point1, point2):
     return math.sqrt(sum((p1 - p2) ** 2 for p1, p2 in zip(point1, point2)))
 
-# 例子
+# example
 point1 = (1, 2, 3)
 point2 = (4, 5, 6)
 distance = euclidean_distance_nd(point1, point2)
